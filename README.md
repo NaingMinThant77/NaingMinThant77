@@ -3,11 +3,11 @@
 
 - 📫 How to reach me **naingminthant07@gmail.com**
 
-	I’m Naing Min Thant, a 21-year-old web developer from Myanmar, passionate about building dynamic and scalable applications using the MERN stack and Next.js. I am currently studying for an NCC Level 5 Diploma in IT at KBTC College in Yangon. Although I don't have formal work experience yet, I have completed many self-built projects that demonstrate my skills and dedication. I have a strong understanding of programming languages and modern web development technologies. I am passionate about creating seamless user experiences and building efficient backend systems. Always eager to learn and grow, I stay motivated to explore new technologies and take on new challenges. I'm excited to connect, collaborate, and contribute to innovative projects in the tech community.
+	I’m Naing Min Thant, a 22-year-old web developer from Myanmar, passionate about building dynamic and scalable applications using the MERN stack and Next.js. I am currently studying for an NCC Level 5 Diploma in IT at KBTC College in Yangon. Although I don't have formal work experience yet, I have completed many self-built projects that demonstrate my skills and dedication. I have a strong understanding of programming languages and modern web development technologies. I am passionate about creating seamless user experiences and building efficient backend systems. Always eager to learn and grow, I stay motivated to explore new technologies and take on new challenges. I'm excited to connect, collaborate, and contribute to innovative projects in the tech community.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/naing-minthant-878a29308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/naing-min-thant-878a29308" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naing-minthant-878a29308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/naing-min-thant-878a29308" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100016798050099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com/profile.php?id=100016798050099" height="30" width="40" /></a>
 </p>
 
