@@ -100,7 +100,7 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/naing-minthant-878a29308/">
+<a href="https://www.linkedin.com/in/naing-min-thant-878a29308/">
   <img height="40" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
