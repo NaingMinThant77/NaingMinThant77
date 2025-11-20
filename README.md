@@ -41,9 +41,14 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 
 | Project | Stack | Impact | Recognition |
 |--------|--------|---------|-------------|
-| **Flood Sync** | MERN + React Native | Emergency Flood Coordination System | 🥈 *1st Runner-up – Code2Career 2025* |
-| **Apartment Utility Management** | React, ExpressJs, PostgreSQL, Prisma ORM | Utility tracking & management app | Completed – OPOM Community |
-| **Productivity Suite** | Next.js | Modular productivity tools | Completed – OPOM Community |
+| [**Flood Sync**] | MERN + React Native | Emergency Flood Coordination System | 🥈 *1st Runner-up – Code2Career 2025* |
+| [**Apartment Utility Management**] | React, ExpressJs, PostgreSQL, Prisma ORM | Utility tracking & management app | Completed – OPOM Community |
+| [**Productivity Suite**] | Next.js | Modular productivity tools | Completed – OPOM Community |
+| [**I_Core_Shop**](https://github.com/NaingMinThant77/I_Core_Shop) | Next.js | Modern e-commerce store for iOS products | 🚀 Personal Project |
+| [**ChatRoom**](https://github.com/NaingMinThant77/Chat_Room) | MERN + Socket.io | Real-time messaging with live chat | 🚀 Personal Project |
+| [**Trade Hub**](https://github.com/NaingMinThant77/Trade_Hub) | MERN | Trading app with mock transaction flows | 🚀 Personal Project |
+| [**FASH_MEN**](https://github.com/NaingMinThant77/FASH_MEN) | MERN | Fashion e-commerce site for men | 🚀 Personal Project |
+
 
 </div>
 
