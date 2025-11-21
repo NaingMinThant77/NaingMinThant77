@@ -25,8 +25,7 @@
 
 I’m **Naing Min Thant**, a web developer passionate about building powerful, scalable applications.
 
-- 🔭 Focus Areas: **MERN • PERN • Next.js • UI/UX Polish**
-- 🎓 Studying **NCC Level 5 Diploma in IT** — KBTC College (Yangon)
+- 🔭 Focus Areas: **MERN • PERN • Next.js**
 - ✨ I love crafting smooth user experiences & robust backend systems.
 
 📬 Email: **naingminthant07@gmail.com**
@@ -42,7 +41,7 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 | Project | Stack | Impact | Recognition |
 |--------|--------|---------|-------------|
 | [**Flood Sync**] | MERN + React Native | Emergency Flood Coordination System | 🥈 *1st Runner-up – Code2Career 2025* |
-| [**Apartment Utility Management**] | React, ExpressJs, PostgreSQL, Prisma ORM | Utility tracking & management app | Completed – OPOM Community |
+| [**Apartment Utility Management**] | React, ExpressJs, PostgreSQL, Prisma ORM (PERN) | Utility tracking & management app | Completed – OPOM Community |
 | [**Productivity Suite**] | Next.js | Modular productivity tools | Completed – OPOM Community |
 | [**I_Core_Shop**](https://github.com/NaingMinThant77/I_Core_Shop) | Next.js | Modern e-commerce store for iOS products | 🚀 Personal Project |
 | [**ChatRoom**](https://github.com/NaingMinThant77/Chat_Room) | MERN + Socket.io | Real-time messaging with live chat | 🚀 Personal Project |
@@ -59,6 +58,8 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 - 🥈 **1st Runner-up – Code2Career Hackathon (2025)**
 - 🎓 **NCC Level 4 Diploma in Computing (2025)**
 - 🎓 **NCC Level 3 Diploma in Computing (2024)**
+- 📜 **Certificate of Next JS Developer in CodeHub**
+- 📜 **Certificate of Web Development (MERN) in CodeHub**
 
 ---
 
