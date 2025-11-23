@@ -1,6 +1,6 @@
 # Hi 👋, I'm Naing Min Thant
 
-### Crafting Web Experiences with MERN • PERN • Next.js
+### Crafting Web Experiences with MERN • PERN • Next.js • Nest.js
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=6AAEFF&center=true&vCenter=true&width=600&lines=Web+Developer+from+Myanmar;Full-Stack+Developer;Passionate+about+scalable+apps;Always+learning+new+technologies" />
@@ -25,7 +25,7 @@
 
 I’m **Naing Min Thant**, a web developer passionate about building powerful, scalable applications.
 
-- 🔭 Focus Areas: **MERN • PERN • Next.js**
+- 🔭 Focus Areas: **MERN • PERN • Next.js • Nest.js**
 - ✨ I love crafting smooth user experiences & robust backend systems.
 
 📬 Email: **naingminthant07@gmail.com**
@@ -78,13 +78,13 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 ### 🖥️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,cs,graphql,prisma,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,cs,graphql,prisma,postman" />
 </p>
 
 ### 🗄️ Databases & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,mysql" />
 </p>
 
 ### 🧩 Tools
