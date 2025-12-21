@@ -43,11 +43,10 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 | [**Flood Sync**] | MERN + React Native | Emergency Flood Coordination System | 🥈 *1st Runner-up – Code2Career 2025* |
 | [**Apartment Utility Management**] | React, ExpressJs, PostgreSQL, Prisma ORM (PERN) | Utility tracking & management app | Completed – OPOM Community |
 | [**Productivity Suite**] | Next.js | Modular productivity tools | Completed – OPOM Community |
+| [**FASH_MEN**](https://github.com/NaingMinThant77/FASH_MEN) | MERN | Fashion e-commerce site for men | 🚀 Personal Project |
+| [**Trade Hub**](https://github.com/NaingMinThant77/Trade_Hub) | MERN | Trading app with mock transaction flows | 🚀 Personal Project |
 | [**I_Core_Shop**](https://github.com/NaingMinThant77/I_Core_Shop) | Next.js | Modern e-commerce store for iOS products | 🚀 Personal Project |
 | [**ChatRoom**](https://github.com/NaingMinThant77/Chat_Room) | MERN + Socket.io | Real-time messaging with live chat | 🚀 Personal Project |
-| [**Trade Hub**](https://github.com/NaingMinThant77/Trade_Hub) | MERN | Trading app with mock transaction flows | 🚀 Personal Project |
-| [**FASH_MEN**](https://github.com/NaingMinThant77/FASH_MEN) | MERN | Fashion e-commerce site for men | 🚀 Personal Project |
-
 
 </div>
 
@@ -84,21 +83,13 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 ### 🗄️ Databases & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,mysql,aws" />
 </p>
 
 ### 🧩 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,figma,vercel,docker,bun,ubuntu" />
-</p>
-
----
-
-## 📊 Skill Radar Chart
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaingMinThant77&theme=react-dark&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=github,figma,vercel,docker,bun,ubuntu,jest,cypress," />
 </p>
 
 ---
