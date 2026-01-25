@@ -1,6 +1,6 @@
 # Hi 👋, I'm Naing Min Thant
 
-### Crafting Web Experiences with MERN • PERN • Next.js • Nest.js
+### Crafting Web Experiences with React • Next.js • ExpressJs • Nest.js • ReactNative
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=6AAEFF&center=true&vCenter=true&width=600&lines=Web+Developer+from+Myanmar;Full-Stack+Developer;Passionate+about+scalable+apps;Always+learning+new+technologies" />
@@ -25,7 +25,7 @@
 
 I’m **Naing Min Thant**, a web developer passionate about building powerful, scalable applications.
 
-- 🔭 Focus Areas: **MERN • PERN • Next.js • Nest.js**
+- 🔭 Focus Areas: **React • Next.js • ExpressJs • Nest.js • ReactNative **
 - ✨ I love crafting smooth user experiences & robust backend systems.
 
 📬 Email: **naingminthant07@gmail.com**
@@ -46,6 +46,7 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 | [**FASH_MEN**](https://github.com/NaingMinThant77/FASH_MEN) | MERN | Fashion e-commerce site for men | 🚀 Personal Project |
 | [**Trade Hub**](https://github.com/NaingMinThant77/Trade_Hub) | MERN | Trading app with mock transaction flows | 🚀 Personal Project |
 | [**I_Core_Shop**](https://github.com/NaingMinThant77/I_Core_Shop) | Next.js | Modern e-commerce store for iOS products | 🚀 Personal Project |
+| [**Task Management**](https://github.com/NaingMinThant77/Task-Management) | Next.js, Nestjs | User, Role and Task Mangement Dashboard | 🚀 Personal Project |
 | [**ChatRoom**](https://github.com/NaingMinThant77/Chat_Room) | MERN + Socket.io | Real-time messaging with live chat | 🚀 Personal Project |
 
 </div>
@@ -67,7 +68,7 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 ### ⚛️ Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,nextjs,kotlin" />
+  <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,nextjs" />
 
   <!-- Tanstack Query -->
   <img height="40" src="https://raw.githubusercontent.com/tanstack/query/main/media/emblem-light.svg" />
@@ -77,7 +78,7 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 ### 🖥️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,cs,graphql,prisma,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,redis,graphql,prisma,postman" />
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -89,7 +90,7 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 ### 🧩 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,figma,vercel,docker,bun,ubuntu,jest,cypress," />
+  <img src="https://skillicons.dev/icons?i=github,figma,docker,ubuntu,jest,cypress," />
 </p>
 
 ---
