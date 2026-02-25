@@ -56,6 +56,7 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 ## 🎓 Certificates & Diplomas
 
 - 🥈 **1st Runner-up – Code2Career Hackathon (2025)**
+- 🎓 **NCC Level 5 Higher Diploma in Computing (2026)**
 - 🎓 **NCC Level 4 Diploma in Computing (2025)**
 - 🎓 **NCC Level 3 Diploma in Computing (2024)**
 - 📜 **Certificate of Next JS Developer in CodeHub**
@@ -68,7 +69,7 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 ### ⚛️ Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,nextjs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,tailwind,bootstrap,mui,react,redux,nextjs" />
 
   <!-- Tanstack Query -->
   <img height="40" src="https://raw.githubusercontent.com/tanstack/query/main/media/emblem-light.svg" />
@@ -90,7 +91,7 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 ### 🧩 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,figma,docker,ubuntu,jest,cypress," />
+  <img src="https://skillicons.dev/icons?i=github,figma,docker,ubuntu,jest,cypress" />
 </p>
 
 ---
