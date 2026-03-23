@@ -42,7 +42,8 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 |--------|--------|---------|-------------|
 | [**Flood Sync**] | MERN + React Native | Emergency Flood Coordination System | 🥈 *1st Runner-up – Code2Career 2025* |
 | [**Apartment Utility Management**] | React, ExpressJs, PostgreSQL, Prisma ORM (PERN) | Utility tracking & management app | Completed – OPOM Community |
-| [**Productivity Suite**] | Next.js | Modular productivity tools | Completed – OPOM Community |
+| [**Productivity Suite**] | Next.js | Modular productivity tools  (Note + Blog + Timer + Analysis Graph) | Completed – OPOM Community |
+| [**MediVoice Ai**]( https://github.com/NaingMinThant77/Next-AI-Medical-Agent) | Nextjs, OpenRouter, Vapi, AssemblyAI |  A cutting-edge AI Medical Voice Agent built with Next.js that revolutionizes healthcare consultations | 🚀 Personal Project |
 | [**FASH_MEN**](https://github.com/NaingMinThant77/FASH_MEN) | MERN | Fashion e-commerce site for men | 🚀 Personal Project |
 | [**Trade Hub**](https://github.com/NaingMinThant77/Trade_Hub) | MERN | Trading app with mock transaction flows | 🚀 Personal Project |
 | [**I_Core_Shop**](https://github.com/NaingMinThant77/I_Core_Shop) | Next.js | Modern e-commerce store for iOS products | 🚀 Personal Project |
@@ -61,7 +62,8 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 - 🎓 **NCC Level 3 Diploma in Computing (2024)**
 - 📜 **Certificate of Next JS Developer in CodeHub**
 - 📜 **Certificate of Web Development (MERN) in CodeHub**
-
+- 👨🏻‍💻 **Junior Full Stack Developer (Nextjs + Nestjs) in Ultimate Solution Since January, 2026**
+  
 ---
 
 # 🛠️ Tech Arsenal
