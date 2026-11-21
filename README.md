@@ -43,6 +43,9 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 | Project | Stack | Impact | Recognition |
 |--------|--------|---------|-------------|
 | [**Flood Sync**] | MERN + React Native | Emergency Flood Coordination System | 🥈 *1st Runner-up – Code2Career 2025* |
+| [**Visionary Clinic**](https://github.com/NaingMinThant77/Visionary-Clinic) · [Live](https://visionary-clinic.vercel.app/) | Next.js, Nest.js, PostgreSQL, Prisma ORM | OPD booking & clinic-management system — patient booking, doctor scheduling, consultations, insurance & financial reports | 🏆 Team Project – FITP Web Development Competition 2026 |
+| [**Expenso**](https://github.com/NaingMinThant77/Expenso) · [Live](https://expenso-iota.vercel.app/) | Next.js, NextAuth, Prisma ORM, PostgreSQL, PWA | Installable income/expense tracker PWA with offline support & push notifications | 🚀 Personal Project |
+| [**Wayfarer (AI Trip Planner)**](https://expo.dev/accounts/naingminthant/projects/ai-trip-planner) | React Native, Expo Router, Nest.js, Google Gemini | AI-agent travel planner with generative UI — itinerary, packing lists, bookings & sharing | 🚀 Personal Project |
 | [**Apartment Utility Management**] | React, ExpressJs, PostgreSQL, Prisma ORM (PERN) | Utility tracking & management app | Completed – OPOM Community |
 | [**Productivity Suite**] | Next.js | Modular productivity tools  (Note + Blog + Timer + Analysis Graph) | Completed – OPOM Community |
 | [**MediVoice Ai**]( https://github.com/NaingMinThant77/Next-AI-Medical-Agent) | Nextjs, OpenRouter, Vapi, AssemblyAI |  A cutting-edge AI Medical Voice Agent built with Next.js that revolutionizes healthcare consultations | 🚀 Personal Project |
@@ -59,12 +62,13 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 ## 🎓 Certificates & Diplomas
 
 - 🥈 **1st Runner-up – Code2Career Hackathon (2025)**
-- 🎓 **NCC Level 5 Higher Diploma in Computing (2026)**
-- 🎓 **NCC Level 4 Diploma in Computing (2025)**
-- 🎓 **NCC Level 3 Diploma in Computing (2024)**
+- 🎓 **NCC Level 5 Diploma in Computing (2026)**
+- 🎓 **NCC Level 4 Diploma in Computing (2024–2025)**
+- 🎓 **NCC Level 3 Diploma in Computing (2023)**
 - 📜 **Certificate of Next JS Developer in CodeHub**
 - 📜 **Certificate of Web Development (MERN) in CodeHub**
-- 👨🏻‍💻 **Junior Full Stack Developer (Nextjs + Nestjs) in Ultimate Solution Since January, 2026**
+- 👨🏻‍💻 **Fullstack Developer (Next.js + Nest.js) at Bagan Innovation Technology — April 2026 to Present**
+- 👨🏻‍💻 **Frontend Developer at Ultimate Solutions Myanmar — January 2026 to April 2026**
   
 ---
 
@@ -118,6 +122,6 @@ I’m **Naing Min Thant**, a web developer passionate about building powerful, s
 
 - 🔥 Coding since: **2022**
 - 🚀 Passion: **Building scalable digital products**
-- 🎯 Goal for 2026: **Land a full-time developer role & build open-source tools**
+- 🎯 Goal for 2026: **Grow as a Fullstack Developer & contribute to open-source tools**
 
 ---
